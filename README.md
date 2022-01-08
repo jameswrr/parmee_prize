@@ -6,4 +6,5 @@ Mini ML project for parmee prize
 - The idea I came to them with was a way of ranking products on e-commerce sites based on some "sustainbility" criteria
 - We got through to the final round of the competition with our proposal, so I began to work on a demo we would show during the presentation
 - The demo took data from AutoTrader (7 features), normalised them, applied a normalized weight vector, and outputted a score which was used to rank the cars
+- For this project my goal is to guess what car a user would pick based on which cars (and how frequently) they click on during a browsing period
 
